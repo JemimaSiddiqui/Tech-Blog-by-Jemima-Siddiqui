@@ -43,12 +43,13 @@ If you would like to acess the source code, please navigate to the following pub
 In order to see a deployed application, navigate to the following Heroku link: 
 
 * Step 1: Change into the directory of the application 
-* Step 2: Run by using the following command in the command terminal in VS Code. 
+* Step 2: Download the followiun
+* Step 3: Run by using the following command in the command terminal in VS Code. 
 
   ```bash
-  node index.js 
+  node start 
   ```
-* Step 3: You will be presented with a series of questions as shown in the image below. Please answer these questions. 
+* Step 4: You will be presented with a series of questions as shown in the image below. Please answer these questions. 
 
 ![Prompts for user input](./asset/prompts.png)
 
