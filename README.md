@@ -43,19 +43,24 @@ If you would like to acess the source code, please navigate to the following pub
 In order to see a deployed application, navigate to the following Heroku link: 
 
 * Step 1: Change into the directory of the application 
-* Step 2: Download the followiun
+* Step 2: Download the following packages: 
+  1. Express 
+  2. mySQL2 
+  3. Sequelize 
+  4. Express-Handlebars 
+  5. Dotenv 
+  6. Bcrypt 
+  7. Express-Session 
+  8. Connect Session Sequelize 
 * Step 3: Run by using the following command in the command terminal in VS Code. 
 
   ```bash
-  node start 
+  npm start  
   ```
-* Step 4: You will be presented with a series of questions as shown in the image below. Please answer these questions. 
+* Step 4: You will need to open port 3001 on local host to see the application in the browser. Alternatively, you can use the Heroku application to view the Tech Blog application. 
 
-![Prompts for user input](./asset/prompts.png)
+![Tech blog app](./assets/application.png)
 
-* Step 4: Once you have answered all the questions, you will see a recently generated README file in the dist folder (please ensure that before answering all the questions and clicking enter, the dist folder is empty and does not contain a README file to start of with). 
-
-![README file in dist folder](./asset/dist.png)
 
 ## Questions
 Author: [JemimaSiddiqui](https://github.com/JemimaSiddiqui)
